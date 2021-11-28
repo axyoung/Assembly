@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Debug\Lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab5.map</FILE>
+  <FILE>Lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>47</LINE></INIT>
+  <MAIN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>62</LINE></MAIN>
+  <ADD16_Operand1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>443</LINE></ADD16_Operand1>
+  <ADD16_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>480</LINE></ADD16_OP1>
+  <ADD16_Operand2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>445</LINE></ADD16_Operand2>
+  <ADD16_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>482</LINE></ADD16_OP2>
+  <ADD16><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>182</LINE></ADD16>
+  <SUB16_Operand1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>448</LINE></SUB16_Operand1>
+  <SUB16_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>490</LINE></SUB16_OP1>
+  <SUB16_Operand2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>450</LINE></SUB16_Operand2>
+  <SUB16_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>492</LINE></SUB16_OP2>
+  <SUB16><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>223</LINE></SUB16>
+  <MUL24_Operand1B><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>455</LINE></MUL24_Operand1B>
+  <MUL24_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>500</LINE></MUL24_OP1>
+  <MUL24_Operand1A><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>453</LINE></MUL24_Operand1A>
+  <MUL24_Operand2B><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>459</LINE></MUL24_Operand2B>
+  <MUL24_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>502</LINE></MUL24_OP2>
+  <MUL24_Operand2A><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>457</LINE></MUL24_Operand2A>
+  <MUL24><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>266</LINE></MUL24>
+  <COMPOUND><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>361</LINE></COMPOUND>
+  <DONE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>169</LINE></DONE>
+  <ADD16_Result><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>486</LINE></ADD16_Result>
+  <EXIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>215</LINE></EXIT>
+  <SUB16_Result><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>496</LINE></SUB16_Result>
+  <EXIT2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>256</LINE></EXIT2>
+  <MUL24_Result><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>506</LINE></MUL24_Result>
+  <MUL24_OLOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>302</LINE></MUL24_OLOOP>
+  <MUL24_ILOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>309</LINE></MUL24_ILOOP>
+  <OperandE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>464</LINE></OperandE>
+  <OperandD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>462</LINE></OperandD>
+  <OperandF><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>466</LINE></OperandF>
+  <addrA><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>475</LINE></addrA>
+  <addrB><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>476</LINE></addrB>
+  <LAddrP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab5\Lab5\Alex_Young_and_Steven_Bui_Lab5_sourcecode.asm</FILE><LINE>477</LINE></LAddrP>
+ </LABELS>
+</ASSEMBLER_INFO>

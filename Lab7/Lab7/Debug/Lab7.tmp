@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Debug\Lab7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab7.map</FILE>
+  <FILE>Lab7.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>78</LINE></INIT>
+  <SPEED_DOWN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>143</LINE></SPEED_DOWN>
+  <SPEED_UP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>196</LINE></SPEED_UP>
+  <SPEED_MIN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>249</LINE></SPEED_MIN>
+  <SPEED_MAX><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>287</LINE></SPEED_MAX>
+  <MAIN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>130</LINE></MAIN>
+  <RETURN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>179</LINE></RETURN>
+  <WAIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>328</LINE></WAIT>
+  <RETURN2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>232</LINE></RETURN2>
+  <Loop><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>333</LINE></Loop>
+  <OLoop><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>334</LINE></OLoop>
+  <ILoop><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab7\Lab7\Alex_Young_and_Steven_Bui_Lab7_sourcecode.asm</FILE><LINE>335</LINE></ILoop>
+ </LABELS>
+</ASSEMBLER_INFO>

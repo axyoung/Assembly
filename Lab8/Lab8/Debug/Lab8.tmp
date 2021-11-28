@@ -1,0 +1,132 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Debug\Lab8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab8.map</FILE>
+  <FILE>Lab8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>59</LINE></INIT>
+  <TIMER_OVERFLOW><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>260</LINE></TIMER_OVERFLOW>
+  <LCDInit><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>75</LINE></LCDInit>
+  <WELCOME_LCD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>154</LINE></WELCOME_LCD>
+  <WAIT_LCD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>197</LINE></WAIT_LCD>
+  <SECOND_INIT_LCD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>818</LINE></SECOND_INIT_LCD>
+  <MAIN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>106</LINE></MAIN>
+  <SET_LCD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>224</LINE></SET_LCD>
+  <NEXT_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>118</LINE></NEXT_1>
+  <CONFIRM_CHAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>413</LINE></CONFIRM_CHAR>
+  <WAIT_LOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>795</LINE></WAIT_LOOP>
+  <NEXT_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>126</LINE></NEXT_2>
+  <BEGIN_TRANSMISSION><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>444</LINE></BEGIN_TRANSMISSION>
+  <NEXT_3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>134</LINE></NEXT_3>
+  <ITERATE_FORWARD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>724</LINE></ITERATE_FORWARD>
+  <ITERATE_BACKWARD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>758</LINE></ITERATE_BACKWARD>
+  <STRING1_BEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>854</LINE></STRING1_BEG>
+  <DO1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>166</LINE></DO1>
+  <STRING1_END><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>856</LINE></STRING1_END>
+  <STRING2_BEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>857</LINE></STRING2_BEG>
+  <DO2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>177</LINE></DO2>
+  <STRING2_END><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>859</LINE></STRING2_END>
+  <LCDWrite><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>170</LINE></LCDWrite>
+  <WAIT_LCD_LOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>217</LINE></WAIT_LCD_LOOP>
+  <LCDClr><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>230</LINE></LCDClr>
+  <STRING3_BEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>860</LINE></STRING3_BEG>
+  <DO3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>238</LINE></DO3>
+  <STRING3_END><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>862</LINE></STRING3_END>
+  <InitLCD2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>391</LINE></InitLCD2>
+  <NEXT_CHAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>288</LINE></NEXT_CHAR>
+  <CHECK_TOGGLE7><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>295</LINE></CHECK_TOGGLE7>
+  <CHECK_TOGGLE8><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>299</LINE></CHECK_TOGGLE8>
+  <DOT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>317</LINE></DOT>
+  <CHECK_TOGGLE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>324</LINE></CHECK_TOGGLE>
+  <CHECK_TOGGLE2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>330</LINE></CHECK_TOGGLE2>
+  <DASH><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>350</LINE></DASH>
+  <CHECK_TOGGLE3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>357</LINE></CHECK_TOGGLE3>
+  <CHECK_TOGGLE4><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>363</LINE></CHECK_TOGGLE4>
+  <CHECK_TOGGLE5><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>367</LINE></CHECK_TOGGLE5>
+  <CHECK_TOGGLE6><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>371</LINE></CHECK_TOGGLE6>
+  <DO4><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>399</LINE></DO4>
+  <CONTINUE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>425</LINE></CONTINUE>
+  <TRANSLATE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>455</LINE></TRANSLATE>
+  <TRANSLATE_CHAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>481</LINE></TRANSLATE_CHAR>
+  <DONE_TRANSMISSION><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>463</LINE></DONE_TRANSMISSION>
+  <B><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>504</LINE></B>
+  <DONE_TRANSLATE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>710</LINE></DONE_TRANSLATE>
+  <C><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>513</LINE></C>
+  <D><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>522</LINE></D>
+  <E><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>530</LINE></E>
+  <F><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>536</LINE></F>
+  <G><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>545</LINE></G>
+  <H><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>553</LINE></H>
+  <I><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>562</LINE></I>
+  <J><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>569</LINE></J>
+  <K><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>578</LINE></K>
+  <L><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>586</LINE></L>
+  <M><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>595</LINE></M>
+  <N><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>602</LINE></N>
+  <O><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>609</LINE></O>
+  <P><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>617</LINE></P>
+  <Q_><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>626</LINE></Q_>
+  <R_><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>635</LINE></R_>
+  <S><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>643</LINE></S>
+  <T><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>651</LINE></T>
+  <U><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>657</LINE></U>
+  <V><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>665</LINE></V>
+  <W><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>674</LINE></W>
+  <X_><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>682</LINE></X_>
+  <Y_><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>691</LINE></Y_>
+  <Z_><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>700</LINE></Z_>
+  <RESUME_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>740</LINE></RESUME_1>
+  <LCDWrLn2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>205</LINE></LCDWrLn2>
+  <RESUME_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>774</LINE></RESUME_2>
+  <Loop><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>800</LINE></Loop>
+  <OLoop><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>801</LINE></OLoop>
+  <ILoop><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>802</LINE></ILoop>
+  <DO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\Alex_Young_and_Steven_Bui_Lab8_sourcecode.asm</FILE><LINE>832</LINE></DO>
+  <LCDINIT_L1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>139</LINE></LCDINIT_L1>
+  <LCDWait><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>492</LINE></LCDWait>
+  <LCDWriteCmd><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>436</LINE></LCDWriteCmd>
+  <LCDWrLn1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>180</LINE></LCDWrLn1>
+  <LCDSetLine><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>388</LINE></LCDSetLine>
+  <LCDWriteLine><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>423</LINE></LCDWriteLine>
+  <LCDClrLn1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>240</LINE></LCDClrLn1>
+  <LCDClrLn2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>265</LINE></LCDClrLn2>
+  <LCDClrLine><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>404</LINE></LCDClrLine>
+  <LCDWriteByte><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>302</LINE></LCDWriteByte>
+  <LCDWriteByte_3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>323</LINE></LCDWriteByte_3>
+  <LCDWriteByte_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>313</LINE></LCDWriteByte_1>
+  <LCDWriteByte_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>318</LINE></LCDWriteByte_2>
+  <LCDWriteChar><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>457</LINE></LCDWriteChar>
+  <Bin2ASCII><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>339</LINE></Bin2ASCII>
+  <B2A_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>352</LINE></B2A_1>
+  <B2A_3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>360</LINE></B2A_3>
+  <B2A_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>357</LINE></B2A_2>
+  <div10><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>515</LINE></div10>
+  <LCDClrLine_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>407</LINE></LCDClrLine_1>
+  <LCDWriteLine_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>425</LINE></LCDWriteLine_1>
+  <LCDWriteData><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>472</LINE></LCDWriteData>
+  <LCDWC_L1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>443</LINE></LCDWC_L1>
+  <LCDW_L1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>493</LINE></LCDW_L1>
+  <LCDW_L2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>494</LINE></LCDW_L2>
+  <div10_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>554</LINE></div10_1>
+  <div10_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab8\Lab8\LCDDriver.asm</FILE><LINE>560</LINE></div10_2>
+ </LABELS>
+</ASSEMBLER_INFO>

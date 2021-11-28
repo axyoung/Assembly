@@ -1,0 +1,127 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\Debug\Final.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Final.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Final.map</FILE>
+  <FILE>Final.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ADD_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>34</LINE></ADD_OP1>
+  <ADD_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>36</LINE></ADD_OP2>
+  <ADD_RESULT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>40</LINE></ADD_RESULT>
+  <SUB_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>43</LINE></SUB_OP1>
+  <SUB_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>45</LINE></SUB_OP2>
+  <SUB_RESULT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>49</LINE></SUB_RESULT>
+  <MUL_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>53</LINE></MUL_OP1>
+  <MUL_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>55</LINE></MUL_OP2>
+  <MUL_RESULT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>59</LINE></MUL_RESULT>
+  <DIV_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>63</LINE></DIV_OP1>
+  <DIV_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>65</LINE></DIV_OP2>
+  <DIV_RESULT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>69</LINE></DIV_RESULT>
+  <DIV_VAR_OP1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>73</LINE></DIV_VAR_OP1>
+  <DIV_VAR_OP2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>75</LINE></DIV_VAR_OP2>
+  <SQRT_OP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>79</LINE></SQRT_OP>
+  <SQRT_RESULT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>83</LINE></SQRT_RESULT>
+  <GM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>87</LINE></GM>
+  <R><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>89</LINE></R>
+  <VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>91</LINE></VAR>
+  <INIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>107</LINE></INIT>
+  <STORE_GM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>344</LINE></STORE_GM>
+  <CHECK_GM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>369</LINE></CHECK_GM>
+  <STORE_RADIUS><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>418</LINE></STORE_RADIUS>
+  <CHECK_RADIUS><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>447</LINE></CHECK_RADIUS>
+  <STORE_LOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>284</LINE></STORE_LOOP>
+  <DIV><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>751</LINE></DIV>
+  <Quotient><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1544</LINE></Quotient>
+  <SQRT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1090</LINE></SQRT>
+  <CHECK_VELOCITY><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>496</LINE></CHECK_VELOCITY>
+  <Velocity><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1546</LINE></Velocity>
+  <FOURTY><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1484</LINE></FOURTY>
+  <STORE_LPM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>297</LINE></STORE_LPM>
+  <MULT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1381</LINE></MULT>
+  <Product><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1549</LINE></Product>
+  <CHECK_PERIOD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>523</LINE></CHECK_PERIOD>
+  <Period><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1550</LINE></Period>
+  <Grading><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1500</LINE></Grading>
+  <CLR_LOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>310</LINE></CLR_LOOP>
+  <STORE_COUNTERS><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>322</LINE></STORE_COUNTERS>
+  <SelectedPlanet><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1517</LINE></SelectedPlanet>
+  <PlanetInfo><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1525</LINE></PlanetInfo>
+  <CONTINUE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>356</LINE></CONTINUE>
+  <THOUSANDX><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1491</LINE></THOUSANDX>
+  <SUBT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1218</LINE></SUBT>
+  <GM_CHECK_ZERO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>389</LINE></GM_CHECK_ZERO>
+  <GM_CHECK_NEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>407</LINE></GM_CHECK_NEG>
+  <GM_BAD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>396</LINE></GM_BAD>
+  <NEG_ONE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1489</LINE></NEG_ONE>
+  <LOAD_CARRY><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>559</LINE></LOAD_CARRY>
+  <GM_GOOD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>411</LINE></GM_GOOD>
+  <OrbitalRadius><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1512</LINE></OrbitalRadius>
+  <NORMAL_RADIUS><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>433</LINE></NORMAL_RADIUS>
+  <RADIUS_CHECK_ZERO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>467</LINE></RADIUS_CHECK_ZERO>
+  <RADIUS_CHECK_NEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>485</LINE></RADIUS_CHECK_NEG>
+  <RADIUS_BAD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>474</LINE></RADIUS_BAD>
+  <RADIUS_GOOD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>489</LINE></RADIUS_GOOD>
+  <VELOCITY_CHECK_ZERO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>500</LINE></VELOCITY_CHECK_ZERO>
+  <VELOCITY_GOOD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>517</LINE></VELOCITY_GOOD>
+  <NEG_TWO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1490</LINE></NEG_TWO>
+  <TWENTYFIVE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1492</LINE></TWENTYFIVE>
+  <PERIOD_GOOD><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>553</LINE></PERIOD_GOOD>
+  <SUB_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>574</LINE></SUB_VAR>
+  <ADD_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>631</LINE></ADD_VAR>
+  <ADD_><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1304</LINE></ADD_>
+  <SUB_COUNT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>690</LINE></SUB_COUNT>
+  <COUNT_NOT_ZERO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>704</LINE></COUNT_NOT_ZERO>
+  <BIL><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1488</LINE></BIL>
+  <DIV_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>955</LINE></DIV_VAR>
+  <MIL><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1487</LINE></MIL>
+  <THOUSAND><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1486</LINE></THOUSAND>
+  <ONE><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1482</LINE></ONE>
+  <ADD_INIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>833</LINE></ADD_INIT>
+  <EXIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>928</LINE></EXIT>
+  <DIV_LOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>838</LINE></DIV_LOOP>
+  <CONT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>843</LINE></CONT>
+  <CHECK_ZERO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>863</LINE></CHECK_ZERO>
+  <CHECK_CARRY><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>873</LINE></CHECK_CARRY>
+  <TWO><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1483</LINE></TWO>
+  <ADD_INIT_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1025</LINE></ADD_INIT_VAR>
+  <EXIT_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1074</LINE></EXIT_VAR>
+  <DIV_LOOP_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1030</LINE></DIV_LOOP_VAR>
+  <CONT_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1035</LINE></CONT_VAR>
+  <CHECK_ZERO_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1055</LINE></CHECK_ZERO_VAR>
+  <CHECK_CARRY_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1065</LINE></CHECK_CARRY_VAR>
+  <HUNDRED><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1485</LINE></HUNDRED>
+  <SQRT_VAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1154</LINE></SQRT_VAR>
+  <SQRT_LOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1155</LINE></SQRT_LOOP>
+  <FINISH_SQRT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1197</LINE></FINISH_SQRT>
+  <EXIT2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1285</LINE></EXIT2>
+  <EXIT3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1362</LINE></EXIT3>
+  <MUL_OLOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1416</LINE></MUL_OLOOP>
+  <MUL_ILOOP><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1423</LINE></MUL_ILOOP>
+  <MercuryGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1526</LINE></MercuryGM>
+  <VenusGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1527</LINE></VenusGM>
+  <EarthGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1528</LINE></EarthGM>
+  <MarsGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1529</LINE></MarsGM>
+  <JupiterGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1530</LINE></JupiterGM>
+  <SaturnGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1531</LINE></SaturnGM>
+  <UranusGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1532</LINE></UranusGM>
+  <NeptuneGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1533</LINE></NeptuneGM>
+  <FinalGM><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Final\Final\ece375_final.asm</FILE><LINE>1534</LINE></FinalGM>
+ </LABELS>
+</ASSEMBLER_INFO>

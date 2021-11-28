@@ -1,0 +1,72 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Debug\Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>39</LINE></INIT>
+  <LCDInit><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>75</LINE></LCDInit>
+  <InitLCD1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>99</LINE></InitLCD1>
+  <MAIN><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>65</LINE></MAIN>
+  <NEXT><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>75</LINE></NEXT>
+  <LCDWrite><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>170</LINE></LCDWrite>
+  <CLEAR><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>81</LINE></CLEAR>
+  <InitLCD2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>130</LINE></InitLCD2>
+  <LCDClr><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>230</LINE></LCDClr>
+  <STRING1_BEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>164</LINE></STRING1_BEG>
+  <DO1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>106</LINE></DO1>
+  <STRING1_END><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>166</LINE></STRING1_END>
+  <STRING2_BEG><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>167</LINE></STRING2_BEG>
+  <DO2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>117</LINE></DO2>
+  <STRING2_END><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>169</LINE></STRING2_END>
+  <DO3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>137</LINE></DO3>
+  <DO4><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\Alex_Young_and_Steven_Bui_Lab4_sourcecode.asm</FILE><LINE>148</LINE></DO4>
+  <LCDINIT_L1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>139</LINE></LCDINIT_L1>
+  <LCDWait><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>492</LINE></LCDWait>
+  <LCDWriteCmd><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>436</LINE></LCDWriteCmd>
+  <LCDWrLn1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>180</LINE></LCDWrLn1>
+  <LCDWrLn2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>205</LINE></LCDWrLn2>
+  <LCDSetLine><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>388</LINE></LCDSetLine>
+  <LCDWriteLine><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>423</LINE></LCDWriteLine>
+  <LCDClrLn1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>240</LINE></LCDClrLn1>
+  <LCDClrLn2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>265</LINE></LCDClrLn2>
+  <LCDClrLine><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>404</LINE></LCDClrLine>
+  <LCDWriteByte><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>302</LINE></LCDWriteByte>
+  <LCDWriteByte_3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>323</LINE></LCDWriteByte_3>
+  <LCDWriteByte_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>313</LINE></LCDWriteByte_1>
+  <LCDWriteByte_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>318</LINE></LCDWriteByte_2>
+  <LCDWriteChar><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>457</LINE></LCDWriteChar>
+  <Bin2ASCII><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>339</LINE></Bin2ASCII>
+  <B2A_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>352</LINE></B2A_1>
+  <B2A_3><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>360</LINE></B2A_3>
+  <B2A_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>357</LINE></B2A_2>
+  <div10><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>515</LINE></div10>
+  <LCDClrLine_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>407</LINE></LCDClrLine_1>
+  <LCDWriteLine_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>425</LINE></LCDWriteLine_1>
+  <LCDWriteData><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>472</LINE></LCDWriteData>
+  <LCDWC_L1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>443</LINE></LCDWC_L1>
+  <LCDW_L1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>493</LINE></LCDW_L1>
+  <LCDW_L2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>494</LINE></LCDW_L2>
+  <div10_1><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>554</LINE></div10_1>
+  <div10_2><FILE>C:\Users\Alex\Documents\Atmel Studio\7.0\Lab4\Lab4\LCDDriver.asm</FILE><LINE>560</LINE></div10_2>
+ </LABELS>
+</ASSEMBLER_INFO>
